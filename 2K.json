@@ -15,8 +15,20 @@
         "x": 1275,
         "y": 1017
     },
-    "emote_select":{
-        "x": 1616,
-        "y": 1156
+    "champ_select":{
+        "x": 449,
+        "y": 726
+    },
+    "search_champ":{
+        "x": 1548,
+        "y": 312
+    },
+    "clic_champ_icon":{
+        "x": 898,
+        "y": 406
+    },
+    "clic_select_champ":{
+        "x": 1262,
+        "y": 1103
     }
 }
