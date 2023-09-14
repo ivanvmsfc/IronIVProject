@@ -1,1 +1,4 @@
 pyinstaller --onefile tu_script.py
+
+
+pyinstaller tracker.py --onefile --hidden-import pywintypes
