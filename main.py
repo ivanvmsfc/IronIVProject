@@ -19,11 +19,14 @@ if mode == 1:
     accept_match(data)
 
     # Escribir y seleccionar champ
-    write_champ("miss fortune", data)
+    write_champ("kaisa", data)
+
+    # Esperar la aparición en grieta
+    waiting_game(data)
+
+    in_game(data)
+
+    print("FIN")
 
 elif mode == 2:
     print("2")
-
-
-
-
